@@ -1,5 +1,5 @@
 ---
-title: "🧠 Buddhist Philosophy"
+title: "Buddhism"
 ---
 
 > Between stimulus and response there is a space. 

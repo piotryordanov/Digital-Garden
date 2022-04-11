@@ -23,12 +23,12 @@ Key Takeaways
 ### How to make passive income
 We identify three categories of passive income strategies, categories by the risk taken. Note that riskier strategies, while on the surface look like they generate free money, they bear a risk of loss of capital (sometimes very high):
 1. Safe Strategies
-	1. [Lending StableCoins](notes/Passive%20Income/Lending%20StableCoins.md)
+	1. [Lending StableCoins](Lending%20StableCoins.md)
 	2. Lending already owned CryptoCoins
 	3. Liquidity Providing
 	4. Mining POW chains
 2. Riskier Strategies
-	1. [Staking](notes/Passive%20Income/Staking.md) CryptoCoins
+	1. [Staking](Staking.md) CryptoCoins
 	2. Yield Farming
 	3. Investment in ICO's
 3. Special events
@@ -38,7 +38,7 @@ We identify three categories of passive income strategies, categories by the ris
 	4. BuyBacks
 	5. Rewards
 
-### Challenges 
+### Challenges
 An investor with no financial education, who wishes to generate passive income,  faces a few critical challenges:
 1. Deciding on what allocation to do for each strategy
 2. Deciding on which platform to execute the strategy
@@ -49,11 +49,11 @@ An investor with no financial education, who wishes to generate passive income, 
 
 ### Current solutions
 There are, in the DeFi world, a number of projects that offer aggregation of solutions between liquidity providers and farms. Such projects are:
-+ [Popsicle.Finance](notes/Passive%20Income/Popsicle.Finance.md)
-+ [Popcorn.Network](notes/Passive%20Income/Popcorn.Network.md)
-+ [Yearn.Finance](notes/Passive%20Income/Yearn.Finance.md)
-+ [Abracadabra.Finance](notes/Passive%20Income/Abracadabra.Finance.md)
-+ [Olympus.Finance](notes/Passive%20Income/Olympus.Finance.md)
++ [Popsicle.Finance](Popsicle.Finance.md)
++ [Popcorn.Network](Popcorn.Network.md)
++ [Yearn.Finance](Yearn.Finance.md)
++ [Abracadabra.Finance](Abracadabra.Finance.md)
++ [Olympus.Finance](Olympus.Finance.md)
 
 
 However, it still is up to the user to decide which pool to get into, when to rebalance to another one, and more important, how to hedge their coins against potential market drops.

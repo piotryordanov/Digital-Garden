@@ -2,8 +2,6 @@
 title: "Self"
 ---
 
-The self is cool
-
 The correct position with regard to the question of Anatta is not to take hold of any opinion or views, but to try to see things objectively as they are without mental projections, to see that what we call 'I', or 'being', is only a combination of physical and mental aggregates, which are working together interdependently in a flux of momentary change within the law of cause and effect, and that there is nothing permanent, everlasting, unchanging and eternal in the whole of existence."
 
 Normally we create a sense of self as a strategy for gaining happiness. We look for what abilities we have in order to gain a happiness we want. Those abilities are then ours. The hand we can use to reach for the object we want is our hand; the loud voice we can use to scare off the bullies threatening our sister is our voice. This is why the element of control is so essential to our sense of self: We assume that the things we can control are us or ours. Then we also try to think about which part of ourselves will live to enjoy the happiness we're trying to gain. These things will change depending on the desire.
