@@ -199,11 +199,11 @@ article {
 
       &.broken {
         opacity: 0.5;
-        background-color: transparent; 
+        background-color: transparent;
       }
     }
   }
-  
+
   & p {
     overflow-wrap: anywhere;
   }
@@ -278,7 +278,7 @@ footer {
   text-align: center;
   & ul {
     padding-left: 0;
-  } 
+  }
 }
 
 hr {
@@ -292,12 +292,23 @@ hr {
 }
 
 .singlePage {
-  padding: 4em 30vw;
+  padding: 4em 25vw;
 
   @media all and (max-width: 1200px) {
     padding: 25px 5vw;
   }
 }
+.bio {
+  display: flex;
+  gap: 4em;
+  @media all and (max-width: 1200px) {
+    flex-direction: column !important;
+  }
+  & > article {
+    width: 70%;
+  }
+}
+
 
 .page-end {
   display: flex;

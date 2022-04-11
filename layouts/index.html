@@ -12,13 +12,30 @@
         <div class="spacer"></div>
         {{partial "darkmode.html" .}}
     </header>
-    <article>
-        {{partial "toc.html" .}} 
+
+    <div class="bio">
+      <article>
+        {{partial "toc.html" .}}
         {{partial "textprocessing.html" . }}
-    </article>
+      </article>
+      <ul class="delay t-4 stagger">
+        <h2>Recent Notes</h2>
+        {{range first 6 .Site.RegularPages }}
+        <li class="section-li">
+          <div class="section">
+            <div class="desc">
+              <h3><a href="{{ .Permalink }}">{{- .Title -}}</a></h3>
+            </div>
+            <p class="meta">
+            {{.WordCount}} words. {{if ne .Date .Lastmod}}{{ .Lastmod.Format "January 2, 2006" }}{{else}}Unknown{{end}}
+            </p>
+          </div>
+        </li>
+        {{end}}
+      </ul>
+    </div>
     {{partial "footer.html" .}}
     {{partial "popover.html" .}}
 </div>
 </body>
 </html>
-
