@@ -2,6 +2,7 @@
 title: "Emptiness"
 ---
 
+
 *Source:* http://www.accesstoinsight.org/lib/authors/thanissaro/integrityofemptiness.html
 
   Wisdom on all levels is wise because it works, and to work, it requires integrity: *the willingness to look honestly at the results of your actions, to admit when you've caused harm, and to change your ways so that you won't make the same mistake again.*

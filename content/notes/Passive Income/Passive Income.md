@@ -67,7 +67,9 @@ However, there are no mature and established robo advisors specialized in crypto
 The traditional robo-advisors such as [Betterment](Betterment.md) or [WealthFront](https://www.wealthfront.com) are indeed trying to offer crypto solution.
 But, they are often limited geographically, and their minimum capital aren't always easy for all users.
 
+
 ----
+
 
 Sources:
 + [Journey of passive income](https://medium.com/@raffaelarein/my-journey-to-creating-passive-income-with-crypto-top-five-lessons-d29325d4a72f)
