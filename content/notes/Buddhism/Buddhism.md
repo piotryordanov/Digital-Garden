@@ -10,9 +10,6 @@ title: "🧠 Buddhist Philosophy"
 
 ----
 
-A very cool intro for you and me
-
-
 ### Intro
 Buddhism is a path to "waking up," or becoming [Enlightenment](notes/Buddhism/Enlightenment.md), to a reality that is not consciously perceived by most of us.
 The Buddha taught that the biggest barrier to realization is the notion that "I" am a permanent, integral, autonomous entity. It is by seeing through the delusion of ego that realization blooms.

@@ -1,8 +1,11 @@
 ---
 title: "History"
+date: 2022-02-26
 ---
 
 
 ### Topics
-+ [Russia - Ukraine](notes/History/Russia%20-%20Ukraine.md)
-+ [WWII](notes/History/WWII.md)
++ [Russia - Ukraine](Russia%20-%20Ukraine)
++ [WWII](WWII)
+
++ [🧠 Buddhist Philosophy](../Buddhism/Buddhism)
