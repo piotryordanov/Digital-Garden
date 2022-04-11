@@ -49,22 +49,22 @@ An investor with no financial education, who wishes to generate passive income, 
 
 ### Current solutions
 There are, in the DeFi world, a number of projects that offer aggregation of solutions between liquidity providers and farms. Such projects are:
-+ [Popsicle.Finance](Popsicle.Finance.md)
-+ [Popcorn.Network](Popcorn.Network.md)
-+ [Yearn.Finance](Yearn.Finance.md)
-+ [Abracadabra.Finance](Abracadabra.Finance.md)
-+ [Olympus.Finance](Olympus.Finance.md)
++ [Popsicle.Finance](PopsicleFinance)
++ [Popcorn.Network](PopcornNetwork)
++ [Yearn.Finance](YearnFinance)
++ [Abracadabra.Finance](AbracadabraFinance)
++ [Olympus.Finance](OlympusFinance)
 
 
 However, it still is up to the user to decide which pool to get into, when to rebalance to another one, and more important, how to hedge their coins against potential market drops.
 
 ### What's missing
-There exists, in the traditional finance world, [Robo-advisor](notes/Passive%20Income/Robo-advisor.md) which abstract all the decision-making out of the user, and instead offer the investor with an interface where they select their risk profile, according to which cash is allocated.
-They are essentially automated [Financial advisors](notes/Passive%20Income/Financial%20advisors.md).
+There exists, in the traditional finance world, [Robo-advisor](Robo-advisor.md) which abstract all the decision-making out of the user, and instead offer the investor with an interface where they select their risk profile, according to which cash is allocated.
+They are essentially automated Financial advisors.
 The advantage for the user is that they don't have to worry about anything.
 But, it does come at a loss of freedom to pick what each individual strategy does, or, indeed, which strategy would be added or removed in the future.
 However, there are no mature and established robo advisors specialized in crypto.
-The traditional robo-advisors such as [Betterment](notes/Passive%20Income/Betterment.md) or [WealthFront](https://www.wealthfront.com) are indeed trying to offer crypto solution.
+The traditional robo-advisors such as [Betterment](Betterment.md) or [WealthFront](https://www.wealthfront.com) are indeed trying to offer crypto solution.
 But, they are often limited geographically, and their minimum capital aren't always easy for all users.
 
 ----
