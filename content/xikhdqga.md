@@ -1,9 +1,9 @@
 ---
 author: "Piotr Yordanov"
 title: Meditation is not about becoming a monk
-enableToc: true
 date: 2022-04-12
-tag: meditation-blog
+enableToc: true
+tags: meditation-blog
 ---
 
 I consider [meditation](30m0jqb0) to be the art of systematically training the mind 🧠.
