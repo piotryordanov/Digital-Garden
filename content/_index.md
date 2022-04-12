@@ -1,5 +1,6 @@
 ---
 title: 🪴 Piotr's Second Brain
+date: 2022-04-12
 ---
 
 ## Welcome!
@@ -7,10 +8,8 @@ Welcome to my second brain!
 This is a place where I collect, process and analyze information.
 The goal is to create connections and discover unexpected meaning as a result of deep and mindful reflection.
 
+This page also serves as an index to the meta topics that i'm interested in.
 
-
-## Topics I'm interest in
-+ [All Notes](/notes)
-+ [Buddhism](notes/Buddhism/Buddhism.md)
-+ [Passive Income](notes/Passive%20Income/Passive%20Income.md)
-+ [History](notes/History/History.md)
+### Topics of interest
+- [Meditation](30m0jqb0)
+  - [Meditation is not about becoming a monk](xikhdqga)
