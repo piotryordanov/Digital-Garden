@@ -13,7 +13,20 @@ I originally started reading the book in 2017 when I wanted to acquire more focu
 To this day, i keep on revising the book because as my meditation practice matures, some elements become more obvious today.
 
 ## The 10 stages
-The book divides the path into 10 stages. They are not sequential, and thus it is possible for anyone to have an experience of an advances stage.
+The stages can be simplified in the following:
+1. Establish the practice
+2. 'Aha' moments when attention recognizes it lost focus on the breath
+3. Less forgetting, mind wandering and sleepiness
+4. Purifications and overcoming gross distractions
+5. Sustain or even increase the power of mindfulness
+6. Metacognitive Introspective Awareness
+7. Jhanas and [Insight (Vipassanā)](tpi5wwns)
+8. Pacification of sense, and rise of meditative joy
+9. Tranquitlity and [Equanimity](2ou0gfth) replacing joy
+10. Effortless stable attention, mindfulness, joy, tranquility, and equanimity persist away from the cushion
+
+
+The stages are not sequential, and thus it is possible for anyone to have an experience of an advances stage.
 However, that experience might not be sustainable due to the lack of experience.
 
 Instead, it's best for us meditators to recognize in which stage we most likely are, in order to recognize the challenges we are most likely to face, and best practice to deal with them.
