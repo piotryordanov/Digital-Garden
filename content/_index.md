@@ -10,6 +10,5 @@ The goal is to create connections and discover unexpected meaning as a result of
 
 This page also serves as an index to the meta topics that i'm interested in.
 
-### Topics of interest
-## [Meditation](30m0jqb0)
-  - [Meditation is not about becoming a monk](xikhdqga)
+## Topics
+- [Meditation](30m0jqb0)

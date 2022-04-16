@@ -1,7 +1,7 @@
 ---
 title: "Losing what is dear"
-date: "2022-04-01"
-tags: ["meditation-blogpost"]
+date: 2022-04-01
+tags: ["meditation-blog"]
 ---
 
 The feeling that my unhappiness was coming from me not seeing girls or friends, is because, in reality, I was facing other problems, and in order to release the pressure and tension, I wanted to use the ways I have used so far to deal with stress: Sex, video games, and junk food.
