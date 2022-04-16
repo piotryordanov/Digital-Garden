@@ -52,7 +52,7 @@ The key is that patience is not in the face of time, but rather emotions.
 That is true for both happy as well as sad emotions.
 
 The Samurai is thus invited to study patience.
-To examine how these emotions rise and fall. To the experienced eye, they are obviously in charge of their life.
+To examine how these emotions rise and fall. To the experienced eye, they are clearly in charge of their life.
 
 This is exactly what happens during mindfulness meditation where both good and bad emotions challenge the focus on the breath.
 
@@ -60,7 +60,7 @@ This is exactly what happens during mindfulness meditation where both good and b
 ----
 
 To recap:
-- both the Jedi and the Samurai are warriors with different goals, but very similar challenges.
+- both the Jedi and the Samurai are warriors with different goals, but similar challenges.
 - The challenges arise form either positive or negative emotions that disturb focus and attention
 - Meditation is the training of the mind to be more *patient* in the face of emotions
 
@@ -76,7 +76,7 @@ Remember that meditation is the art of training the 🧠 to be mindful and remai
 The adversity of a monk is the life of a monk in a monastery.
 The adversity you face is going to be of a different nature.
 
-But in both cases, adversity will rise and will have to be deal with.
+However, in both cases, adversity will rise and will have to be deal with.
 And people capable of cultivating patience in the face of such challenges, can experience calmer lives.
 We recognize in monks these qualities, but there is nothing stopping a lay person from having them.
 
@@ -86,7 +86,7 @@ As such, I meditate not to live the life of a monk, but in order to live a joyfu
 I cultivate mindfulness to be able to bring about joy with the people around me.
 I practice single pointed attention, to be able to solve complex problems.
 
-But most importantly, I have expanded meditation into all aspects of my day to day life because it brings about a sense of calm.
+Most importantly, I have expanded meditation into all aspects of my day to day life because it brings about a sense of calm.
 
 With meditation; with the force; I remain still.
 Only then can I know.
