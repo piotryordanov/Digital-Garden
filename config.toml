@@ -11,9 +11,11 @@ ignoreFiles = [
 summaryLength = 20
 paginate = 10
 enableGitInfo = true
+
 [permalinks]
   "/" = '/:slug/'
-
+[markup.goldmark.renderer]
+  unsafe = true
 [markup]
     [markup.tableOfContents]
         endLevel = 3
@@ -30,3 +32,4 @@ enableGitInfo = true
         lineNumbersInTable = true
         style = "dracula"
         tabWidth = 4
+        noClasses = false

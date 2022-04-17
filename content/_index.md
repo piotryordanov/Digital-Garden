@@ -1,5 +1,5 @@
 ---
-title: 🪴 Piotr's Second Brain
+title: 🪴 Second Brain
 date: 2022-04-12
 ---
 
@@ -10,5 +10,9 @@ The goal is to create connections and discover unexpected meaning as a result of
 
 This page also serves as an index to the meta topics that i'm interested in.
 
+
+
+
 ## Topics
 - [Meditation](30m0jqb0)
+- [Programming](yzw5mu32)

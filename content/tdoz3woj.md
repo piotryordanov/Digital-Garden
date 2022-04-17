@@ -19,7 +19,7 @@ The stages can be simplified in the following:
 3. Less forgetting, mind wandering and sleepiness
 4. Purifications and overcoming gross distractions
 5. Sustain or even increase the power of mindfulness
-6. Metacognitive Introspective Awareness
+6. [Metacognitive Introspective Awareness](ysfdwtmo)
 7. Jhanas and [Insight (Vipassanā)](tpi5wwns)
 8. Pacification of sense, and rise of meditative joy
 9. Tranquitlity and [Equanimity](2ou0gfth) replacing joy
