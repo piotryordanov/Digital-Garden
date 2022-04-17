@@ -13,7 +13,22 @@ function initPopover(baseURL) {
       links
         .filter((li) => li.dataset.src)
         .forEach((li) => {
-          const linkDest = content[li.dataset.src.replace(basePath, "")];
+          console.log("=========");
+          console.log(li);
+          const alias = li.dataset.src.replace("/", "");
+          console.log(alias);
+          let linkDest;
+          Object.keys(content).forEach((key) => {
+            const value = content[key];
+            const slug = value.title.replaceAll(" ", "-").toLowerCase();
+            if (slug == alias) {
+              console.log(slug);
+              console.log(key);
+              linkDest = content[key];
+            }
+          });
+          console.log(linkDest);
+          // const linkDest = content[li.dataset.src.replace(basePath, "")];
           if (linkDest) {
             const popoverElement = `<div class="popover">
     <h3>${linkDest.title}</h3>
