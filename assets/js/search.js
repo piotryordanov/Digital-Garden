@@ -138,7 +138,8 @@ const removeMarkdown = (
     const text = removeMarkdown(content);
     const resultTitle = highlight(title, term);
     const resultText = highlight(text, term);
-    return `<button class="result-card" id="${url}">
+    const newUrl = title.replaceAll(" ", "-").toLowerCase();
+    return `<button class="result-card" id="${newUrl}">
         <h3>${resultTitle}</h3>
         <p>${resultText}</p>
     </button>`;
