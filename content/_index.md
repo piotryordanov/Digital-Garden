@@ -13,6 +13,7 @@ This page also serves as an index to the meta topics that i'm interested in.
 ## Topics
 + [Meditation](30m0jqb0)
 + [Programming](yzw5mu32)
++ [Trading the financial markets 💹](ev4lenyg)
 
 ## Blog Posts
 + [Meditation Blog posts](/tags/meditation-blog/)
